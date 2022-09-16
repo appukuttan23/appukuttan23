@@ -9,9 +9,9 @@
 
 
                                 @@@@@@@@@@@@@@@                                                       About Me:
-                           @@@@@@@@@@@     @@@@@@@@@@@                           + Iam Currently an Undergraduate at Amrita University
-                     @@@@@@@@@@@       @@@       @@@@@@@@@@@                       Pursuing Computer Science Enineering [ 2020-2024 ]
-               @@@@@@@@@@@       @@@@@@@@@@@@@@@       @@@@@@@@@@@               + Working :-Flutter Dev at Olumpus Group
+                           @@@@@@@@@@@     @@@@@@@@@@@                        + Iam Currently an Undergraduate at Amrita University
+                     @@@@@@@@@@@       @@@       @@@@@@@@@@@                       Pursuing Computer Science Enineering [2020-2024]
+               @@@@@@@@@@@       @@@@@@@@@@@@@@@       @@@@@@@@@@@              + Working :-Flutter Dev at Olumpus Group
          @@@@@@@@@@@@@@                                   @@@@@@@@@@@@@@                   :-UnReal Engine Game Dev
    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   + Following Football For Life - Suiiiiiii. :)
  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@      
