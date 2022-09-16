@@ -1,8 +1,8 @@
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Suiii......;Suiiiiiiiii.......;I+am+a+UnrealEngine+GameDev;&center=true&width=200&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Iam+a+UnReal+Engine+GameDev;&center=true&width=320&height=50"></a>
 <br>
 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Suiii......;Suiiiiiiiii.......;I+am+a+Flutter+Dev;&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+Flutter+Dev;&center=true&width=500&height=50"></a>
 <br>
 
 ```console
@@ -47,23 +47,23 @@
 <br>
 <summary><b>Github Profile Details</b></summary>
 <br>
-  <a href="https://github.com/sivasankarLM10">
+  <a href="https://github.com/appukuttan23">
   <!-- A+ -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sivasankarLM10&show_icons=true&theme=radical&hide_border=true" />&ensp;
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=appukuttan23&show_icons=true&theme=radical&hide_border=true" />&ensp;
   <!-- CURRENT STREAK -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankarLM10&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=appukuttan23&theme=radical&hide_border=true" />
   </a>
 <br>
 <br>
 <!-- GRAPH IN PAST YEAR -->
-<img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivasankarLM10&theme=2077" alt="Github Profile Details" align = "center"/>
+<img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=appukuttan23&theme=2077" alt="Github Profile Details" align = "center"/>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivasankarLM10&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sivasankarLM10&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=appukuttan23&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=appukuttan23&theme=2077)
 <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sivasankarLM10&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivasankarLM10&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=appukuttan23&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=appukuttan23&theme=2077&utcOffset=8)
 
 <br>
 
